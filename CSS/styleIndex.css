@@ -1,0 +1,37 @@
+.titulo_noticia {
+    color: rgb(25, 135, 203); 
+    font-weight: bold;
+}
+
+
+.menu-custom {
+    background-color: #dde5fa; 
+    width: 100%;
+    
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #dbdbdb;
+}
+
+.card {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    width: 100%;
+    padding: 10px;
+}
+
+div.row{
+    margin-top: 30px ;
+}
+
+#imgnoticias {
+    width: 300px;
+    height: 200px;
+  }
+  
